@@ -1,4 +1,4 @@
-### Hello All, I am sharing Basic SQL Functions notes here  
+# Hello All, I am sharing Basic SQL Functions notes here  
 
 1. **Select** = It is the most commonly used function and it allows us to retrieve information from a table.  
 
