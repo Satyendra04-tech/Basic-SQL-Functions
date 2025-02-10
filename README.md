@@ -3,6 +3,6 @@
 1. **Select** = It is the most commonly used function and it allows us to retrieve information from a table.  
 
     * Syntax = SELECT  **column_name** from **table_name** ;  
-        SELECT * from **table_name** ; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; : If we need all the columns from a table we can generally use * 
+        &nbsp;&nbsp; SELECT * from **table_name** ; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; : If we need all the columns from a table we can generally use * 
 
 
