@@ -19,7 +19,7 @@
 ### Q1. How can we use COUNT and DISTINCT function together.  
 `SELECT COUNT (DISTINCT (amount)) FROM payment;`
 
-## That's it for the basic SQL functions, see you in the next chapter !!!
+## That's it for the basic SQL functions, see you in the next chapter !!
 
  
 
