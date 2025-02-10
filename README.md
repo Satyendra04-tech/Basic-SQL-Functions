@@ -13,7 +13,10 @@
 
      * Syntax = SELECT COUNT (**column_name**) from **table_name** ;  
 
-            If we use SELECT COUNT (*) from **table_name** then also we will get same results because number of number of rows will be same for all columns.
+            If we use SELECT COUNT (*) from **table_name** then also we will get same results because number of number of rows will be same for all columns.  
+
+## That's it for the basic SQL functions, see you in the next chapter !!
+
  
 
 
