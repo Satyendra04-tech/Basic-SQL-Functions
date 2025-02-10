@@ -14,7 +14,7 @@
 
      * Syntax = `SELECT COUNT (**column_name**) from **table_name** ;`  
 
-         `SELECT COUNT (*) from **table_name** ;` then also we will get same results because number of number of rows will be same for all columns.  
+         `SELECT COUNT (*) from **table_name** ;` then also we will get same results because number of will be same for all columns.  
 
 ## That's it for the basic SQL functions, see you in the next chapter !!
 
