@@ -10,7 +10,7 @@
 
      * Syntax = `SELECT DISTINCT **column_name** from **table_name** ; `
 
-3. **COunt** = It returns the number of rows that are present in the given column of the table.  
+3. **Count** = It returns the number of rows that are present in the given column of the table.  
 
      * Syntax = `SELECT COUNT (**column_name**) from **table_name** ;`  
 
