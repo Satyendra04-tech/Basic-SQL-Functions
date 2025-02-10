@@ -12,7 +12,7 @@
 
 3. **Count** = It returns the number of rows that are present in the given column of the table.  
 
-     * Syntax = `SELECT COUNT (column_name) from **table_name** ;`  
+     * Syntax = `SELECT COUNT (column_name) from table_name ;`  
 
          `SELECT COUNT (*) from table_name ;` then also we will get same results because number of rows will be same for all columns.  
 
